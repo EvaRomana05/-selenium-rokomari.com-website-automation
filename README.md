@@ -1,15 +1,23 @@
 # Selenium Java Web Automation
 
-## Check out [Pickaboo.com](https://www.pickaboo.com) website automation.
+## Check out [Rokomari.com](https://www.pickaboo.com) website automation.
 
+## Important  note to run this project 
+```
+step 01) first create a .env file root of the project 
+step 02) add information as like as below inside .env file
 
+EMAIL_ADDRESS="ENTER_YOUR_EMAIL_ADDRESS"
+EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
+
+```
 
 This project using the following languages and frameworks:
 
 * [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
 * [TestNG](https://testng.org/doc/) as the UnitTest framework to support the test creation
 * [Selenium WebDriver](https://www.selenium.dev/) as the web browser automation framework using the Java binding
-
+* [.env file added](https://github.com/cdimascio/dotenv-java) Storing configuration in the environment
 
 ## Test architecture
 
