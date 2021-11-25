@@ -1,6 +1,6 @@
 # Selenium Java Web Automation
 
-## Check out [Rokomari.com](https://www.pickaboo.com) website automation.
+## Check out [Rokomari.com](https://www.rokomari.com/book) website automation.
 
 ## Important  note to run this project 
 ```
