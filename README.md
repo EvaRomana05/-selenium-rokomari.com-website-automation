@@ -12,6 +12,13 @@ EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
 
 ```
 
+<h1 align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1q_RnSs-LeAj5PcEE6dC_HJYKcGzQHskX/edit?usp=sharing&ouid=111806113776334653691&rtpof=true&sd=true">Rokomari Test Case Link</a> 
+</h1>
+ 
+
+
+
 This project using the following languages and frameworks:
 
 * [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
