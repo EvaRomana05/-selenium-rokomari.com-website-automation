@@ -13,7 +13,11 @@ EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
 ```
 
 <h1 align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1q_RnSs-LeAj5PcEE6dC_HJYKcGzQHskX/edit?usp=sharing&ouid=111806113776334653691&rtpof=true&sd=true">Rokomari Test Case Link</a> 
+  <a href="https://docs.google.com/spreadsheets/d/1q_RnSs-LeAj5PcEE6dC_HJYKcGzQHskX/edit?usp=sharing&ouid=111806113776334653691&rtpof=true&sd=true"><u>Rokomari Test Case Link</u></a> 
+</h1>
+
+<h1 align="center">
+  <a href="https://drive.google.com/drive/folders/1dH5ByL-9DyGZgJd3R0NOsu_-3Ce2lEdG?usp=sharing"><u>Rokomari Load Test Report Link</u></a> 
 </h1>
  
 
