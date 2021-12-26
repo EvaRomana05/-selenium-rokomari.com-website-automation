@@ -11,19 +11,12 @@ EMAIL_ADDRESS="ENTER_YOUR_EMAIL_ADDRESS"
 EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
 
 ```
-<<<<<<< HEAD
-**Automation Step:**
-1.      Sign Up using Google              2. Select লেখক from the menu
-3.      Select হুমায়ুন আহমেদ                 4. Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র
-5.      Scroll Down and go to Next Page   6. Add to cart any two books
-7.      Click Cart Icon      8. Go to the Shipping page      9. Provide your Shipping Information
-=======
-**Automation Steps:**
-1.      Sign Up using Google                                             2. Select লেখক from the menu        3. Select হুমায়ুন আহমেদ            
-4.      Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র     5. Scroll Down and go to Next Page   6. Add to cart any two books
-7.      Click Cart Icon                                                  8. Go to the Shipping page           9. Provide your Shipping Information
->>>>>>> 598a916539b3e9cdaebec0aaf1c3dce2bd6b6e4a
 
+**Automation Step:**
+1.Sign Up using Google              2. Select লেখক from the menu
+3.Select হুমায়ুন আহমেদ                 4. Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র
+5.Scroll Down and go to Next Page   6. Add to cart any two books
+7.Click Cart Icon      8. Go to the Shipping page      9. Provide your Shipping Information
 
 <h1 align="center">
   <a href="https://docs.google.com/spreadsheets/d/1q_RnSs-LeAj5PcEE6dC_HJYKcGzQHskX/edit?usp=sharing&ouid=111806113776334653691&rtpof=true&sd=true"><u>Rokomari Test Case Link</u></a> 
@@ -33,9 +26,6 @@ EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
   <a href="https://drive.google.com/drive/folders/1dH5ByL-9DyGZgJd3R0NOsu_-3Ce2lEdG?usp=sharing"><u>Rokomari Load Test Report Link</u></a> 
 </h1>
  
-
-
-
 This project using the following languages and frameworks:
 
 * [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
