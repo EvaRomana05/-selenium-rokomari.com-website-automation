@@ -65,6 +65,10 @@ public class SelectLekhok_TestCase_02 extends DriverSetUp {
         aSelectLekhokPageObject.nextButtom.click();
         Thread.sleep(1000);
 
+//        JavascriptExecutor bjs = (JavascriptExecutor) driver;
+        bjs.executeScript("window.scrollBy(0,150)", "");
+        Thread.sleep(2000);
+
         actions.moveToElement(aSelectLekhokPageObject.book1).perform();
         Thread.sleep(2000);
         aSelectLekhokPageObject.book1AddToCurtButton.click();

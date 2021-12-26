@@ -40,7 +40,7 @@ public class SignUpUsingGoogle_TestCase_01 extends DriverSetUp {
         Thread.sleep(2000);
 
         aSignUpUsingGooglePageObject.nextButton2.click();
-        Thread.sleep(5000);
+        Thread.sleep(40000);
 
     }
 }
