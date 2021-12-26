@@ -12,15 +12,10 @@ EMAIL_PASSWORD="ENTER_YOUR_EMAIL_PASSWORD"
 
 ```
 **Automation Step:**
-1.      Sign Up using Google 
-2.      Select লেখক from the menu
-3.      Select হুমায়ুন আহমেদ
-4.      Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র
-5.      Scroll Down and go to Next Page
-6.      Add to cart any two books
-7.      Click Cart Icon
-8.      Go to the Shipping page
-9.      Provide your Shipping Information
+1.      Sign Up using Google              2. Select লেখক from the menu
+3.      Select হুমায়ুন আহমেদ                 4. Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র
+5.      Scroll Down and go to Next Page   6. Add to cart any two books
+7.      Click Cart Icon      8. Go to the Shipping page      9. Provide your Shipping Information
 
 
 <h1 align="center">
